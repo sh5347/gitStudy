@@ -6,6 +6,8 @@ master에 어떻게 하면 merge하는 거지?
 
 코드를 수정하면 커밋을 하여 적용하여야 함... 현재 checkout한 곳으로 보냄..
 
+이상태에서 로컬에 commit하고 push한다음  pull request를 하면?
+
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)
 

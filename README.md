@@ -11,6 +11,9 @@ master에 어떻게 하면 merge하는 거지?
 
 마스터에서 수정한내용은 아직 표시되지 않음.... ajouatom에서는 fetch upstream을 하지 않았으므로....
 
+master브랜치에는 어떻게 적용하면되나?
+
+
 # 이번엔 마스터에서 수정을 하면?????
 
 # Mi Connector

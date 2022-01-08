@@ -9,6 +9,15 @@ master에 어떻게 하면 merge하는 거지?
 이상태에서 로컬에 commit하고 push한다음  pull request를 하면?
 
 
+마스터에서 수정한내용은 아직 표시되지 않음.... ajouatom에서는 fetch upstream을 하지 않았으므로....
+
+master브랜치에는 어떻게 적용하면되나?
+
+master로 병합하면 됨~
+
+테스트분기로 시험테스트를 하고 master에 merge(병합)하는 방법으로 하면 될듯한데... 실수로 master를 수정하면 테스트 분기에 어떻게 적용되나?
+
+
 # 이번엔 마스터에서 수정을 하면?????
 
 # Mi Connector

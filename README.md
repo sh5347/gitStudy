@@ -8,6 +8,9 @@ master에 어떻게 하면 merge하는 거지?
 
 이상태에서 로컬에 commit하고 push한다음  pull request를 하면?
 
+
+# 이번엔 마스터에서 수정을 하면?????
+
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)
 
@@ -24,6 +27,7 @@ Just use a fison67/mi-connector image.
 
 
 ### 몇가지 수정을 하면..
+# 
 
 ### Example Video<br/>
 [![Example](https://img.youtube.com/vi/CtPce-KBVcY/0.jpg)](https://www.youtube.com/watch?v=CtPce-KBVcY)

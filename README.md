@@ -19,6 +19,8 @@ master로 병합하면 됨~
 
 
 # 이번엔 마스터에서 수정을 하면?????
+이렇게 마스터에서 수정하고 시험한다~~
+
 
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)

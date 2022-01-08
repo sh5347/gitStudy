@@ -1,3 +1,5 @@
+#GIT 공부하자~~  ajouatom분기만들고....
+
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)
 
@@ -11,6 +13,9 @@ Please see the [prerequisites](#prerequisites) needed for this connector to work
 
 > No more used a arm image.<br/>
 Just use a fison67/mi-connector image.
+
+
+### 몇가지 수정을 하면..
 
 ### Example Video<br/>
 [![Example](https://img.youtube.com/vi/CtPce-KBVcY/0.jpg)](https://www.youtube.com/watch?v=CtPce-KBVcY)

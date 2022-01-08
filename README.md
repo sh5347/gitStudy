@@ -8,6 +8,10 @@ master에 어떻게 하면 merge하는 거지?
 
 이상태에서 로컬에 commit하고 push한다음  pull request를 하면?
 
+
+마스터에서 수정한내용은 아직 표시되지 않음.... ajouatom에서는 fetch upstream을 하지 않았으므로....
+
+
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)
 

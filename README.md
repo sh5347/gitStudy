@@ -1,3 +1,13 @@
+#GIT 공부하자~~  ajouatom분기만들고....
+
+
+master에 어떻게 하면 merge하는 거지?
+끌어오기 요청만들기 (Pull Request는 fork한 곳으로 끌어오기 가져오기를 요청하는 것임..)
+
+코드를 수정하면 커밋을 하여 적용하여야 함... 현재 checkout한 곳으로 보냄..
+
+이상태에서 로컬에 commit하고 push한다음  pull request를 하면?
+
 # Mi Connector
 Connector for Xiaomi devices with [SmartThings](https://www.smartthings.com/getting-started)
 
@@ -11,6 +21,9 @@ Please see the [prerequisites](#prerequisites) needed for this connector to work
 
 > No more used a arm image.<br/>
 Just use a fison67/mi-connector image.
+
+
+### 몇가지 수정을 하면..
 
 ### Example Video<br/>
 [![Example](https://img.youtube.com/vi/CtPce-KBVcY/0.jpg)](https://www.youtube.com/watch?v=CtPce-KBVcY)
